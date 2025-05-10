@@ -68,8 +68,7 @@ Detailed implementation guides and example code will be provided in upcoming upd
 ## Contact & Additional Resources
 
 - Twitter/X: [@leo_ai75](https://x.com/leo_ai75)
-- LinkedIn: [Original Article on AI-to-AI Feedback](https://www.linkedin.com/feed/update/urn:li:share:7326906738555719680/)
-
+- LinkedIn: [Original Article on AI-to-AI Feedback](https://www.linkedin.com/posts/lruocco_aitoaifeedback-intelligenceamplification-activity-7326922466470076416-hKVU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAALn16sBlHw2oANUlK1Kul1P76OQPcs7eog)/
 ## Citation
 
 If you use this concept in your work, please cite:
