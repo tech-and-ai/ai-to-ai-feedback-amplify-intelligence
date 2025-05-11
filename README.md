@@ -65,6 +65,14 @@ This repository currently contains the conceptual framework and methodology for 
 
 Detailed implementation guides and example code will be provided in upcoming updates. If you're interested in contributing or discussing this approach, please open an issue or reach out directly.
 
+## 📄 Whitepaper
+
+For a full explanation of the framework, theory, and implementation approach:
+
+➡️ [Read the full whitepaper](whitepaper.md)  
+📥 [Download as PDF](docs/whitepaper.pdf)
+
+
 ## Contact & Additional Resources
 
 - Twitter/X: [@leo_ai75](https://x.com/leo_ai75)
